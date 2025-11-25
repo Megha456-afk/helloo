@@ -1,2 +1,2 @@
-# helloo
-my repositiory
+# my-first-helloo
+my first repositiory
